@@ -1,2 +1,2 @@
 # Hackathon
-This Repository is Created for Working Hackathon Prototypes.
+This Repository is Created for Working in Hackathon Prototypes.
